@@ -1,5 +1,5 @@
 owner=558205250876604418
-prefix=/
+prefix= /
 game=Bessem BSM
 stayinchannel=true
 songinstatus=false
